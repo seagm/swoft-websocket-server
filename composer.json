@@ -1,5 +1,5 @@
 {
-  "name": "swoft/websocket-server",
+  "name": "seagm-swoft/websocket-server",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/swoft-cloud/swoft-websocket-server",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0"
+    "seagm-swoft/framework": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
